@@ -1,0 +1,20 @@
+{
+  "name": "proyectomopi",
+  "version": "1.0.0",
+  "description": "Zona para trabajar el proyecto de ecosistemas pero trabajando el Mopi, esto se creo para no confundirnos lol",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.42.5",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0",
+    "socket.io": "^4.7.5",
+    "zod": "^3.23.0"
+  }
+}
