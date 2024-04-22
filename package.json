@@ -4,7 +4,7 @@
   "description": "Zona para trabajar el proyecto de ecosistemas pero trabajando el Mopi, esto se creo para no confundirnos lol",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon server/server.js"
   },
   "keywords": [],
   "author": "",
